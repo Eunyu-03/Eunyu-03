@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffaacc&text=Eunyu's%20GitHub&animation=fadeIn"   style ="width : 1000px; height:400px"/>
 </div>
 
-### <center>안녕하세요! 개발자 정은유입니다.</center>
+### <center>안녕하세요! 개발자 정은유입니다.</center><br>
 
-<span><center> 📞 010-8900-1950 </center></span>
-<span><center> 📮 wjddmsdb03@gmail.com </center></span>
+<center> 📞 010-8900-1950 </center><br>
+<center> 📮 wjddmsdb03@gmail.com </center>
 
 
 <br>
