@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffaacc&text=Eunyu's%20GitHub&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffaacc&text=Eunyu's%20GitHub&animation=fadeIn"   style ="width : 1000px; height:400px"/>
 </div>
 
 ### <center>안녕하세요! 개발자 정은유입니다.</center>
