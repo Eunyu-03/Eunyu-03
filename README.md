@@ -4,8 +4,8 @@
 
 ### <center>안녕하세요! 개발자 정은유입니다.</center>
 
-<center> 📞 010-8900-1950 </center>
-<center> 📮 wjddmsdb03@gmail.com </center>
+<span><center> 📞 010-8900-1950 </center></span>
+<span><center> 📮 wjddmsdb03@gmail.com </center></span>
 
 
 <br>
