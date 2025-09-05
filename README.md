@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ffaacc&text=Eunyu's%20GitHub&animation=fadeIn"/>
 </div>
 
-<div style="margin: 0 auto;">
+<div align=center>
 
 ### <center>안녕하세요! 개발자 정은유입니다.</center><br>
 
